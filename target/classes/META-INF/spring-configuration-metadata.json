@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.sucl.amqp.configruation.AmqpProperties",
+      "name": "amqp",
+      "type": "com.sucl.amqp.configruation.AmqpProperties"
+    }
+  ],
+  "properties": []
+}
